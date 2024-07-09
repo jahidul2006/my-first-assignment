@@ -31,20 +31,17 @@ body{
     background-image: url('../assets/Hero-bg.png');
     height: 650px;
     width: 1440px;
-    border: 3px solid green;
+  
  }
  .profile{
     background-image: url('../assets/Group.png');
-     
     height: 220px;
     width: 220px;
-    border: 2px solid brown;
     margin: 0 auto;
  }
  .banner-contant{
     width: 80%;
     height: 580px;
-    border: 2px solid red;
     margin-top: 2%;
     margin-left: 10%;
  }
@@ -66,16 +63,11 @@ body{
  .text-contant{
     height: 280px;
     width: 1000px;
-    border: 3px solid chartreuse;
+   
     margin-top: 20px;
     margin-left: 7%;
  }
- /* .text-contant-2{
-    height: 100px;
-    width: 1000px;
-    border: 3px solid chartreuse;
-    margin-left: 7%;
- } */
+ 
  .headline{
     margin-top: 0px;
     line-height: 65px;
@@ -90,3 +82,81 @@ body{
     color:rgb(86, 90, 99);
     text-align: center;
  }
+ .main-contant{
+    height: 1450px;
+    width: 1240px;
+    border: 3px solid cornflowerblue;
+    margin: 0 auto;
+    margin-top: 60px;
+    background-color: rgba(13, 19, 33, 0.02);
+ }
+.container{
+    height: 1300px;
+    width: 1080px;
+    border: 2px solid darkorange;
+    margin: 0 auto;
+    margin-top: 70px ;
+}
+.text-web{
+    height: 120px;
+    width: 800px;
+    border: 3px solid yellowgreen;
+    margin: 0 auto;
+    
+    text-align: center;
+    font-family: Azeret Mono;
+}
+.title{
+    margin-top: 0px;
+    font-size: 35px;
+    color: rgb(13, 19, 33);
+}
+.pera{
+    line-height: 25px;
+    color: rgb(130, 134, 142);
+}
+.parent-1{
+   height: 300px;
+   width: 900px;
+   border: 3px solid forestgreen;
+   margin-top: 50px; 
+   margin-left: 80px;
+   background-color: rgb(252, 252, 253);
+   display: flex;
+   justify-content: space-between;
+  
+   
+   
+}
+.div-1{
+    width: 500px;
+    height: 250px;
+    border: 3px solid indigo;
+    margin-left: 10px;
+   
+}
+.layer{
+    font-family: Azeret Mono;
+    font-size: 25px;
+    text-align: center;
+}
+.layer-p{
+    color: rgb(13, 19, 33);
+    font-size: 18px; 
+    text-align: center;
+}
+.learn{
+    height: 40px;
+    width: 130px;
+    font-size: 20px;
+    margin-left: 2%;
+    margin-top: 30px;
+    background-color: white;
+   
+}   
+
+.div-2{
+    height: 215px;
+    width: 260px;
+    border: 3px solid gold;
+}
