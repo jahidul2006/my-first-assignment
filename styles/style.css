@@ -63,7 +63,6 @@ body{
  .text-contant{
     height: 280px;
     width: 1000px;
-   
     margin-top: 20px;
     margin-left: 7%;
  }
@@ -83,24 +82,22 @@ body{
     text-align: center;
  }
  .main-contant{
-    height: 1450px;
+    height: 1150px;
     width: 1240px;
-    border: 3px solid cornflowerblue;
     margin: 0 auto;
     margin-top: 60px;
     background-color: rgba(13, 19, 33, 0.02);
  }
 .container{
-    height: 1300px;
+    height: 1100px;
     width: 1080px;
-    border: 2px solid darkorange;
     margin: 0 auto;
     margin-top: 70px ;
 }
 .text-web{
     height: 120px;
     width: 800px;
-    border: 3px solid yellowgreen;
+   
     margin: 0 auto;
     
     text-align: center;
@@ -109,16 +106,16 @@ body{
 .title{
     margin-top: 0px;
     font-size: 35px;
-    color: rgb(13, 19, 33);
+    color: rgba(13, 19, 33, 0.7) ;
 }
 .pera{
     line-height: 25px;
     color: rgb(130, 134, 142);
 }
 .parent-1{
-   height: 300px;
+   height: 270px;
    width: 900px;
-   border: 3px solid forestgreen;
+   
    margin-top: 50px; 
    margin-left: 80px;
    background-color: rgb(252, 252, 253);
@@ -131,14 +128,16 @@ body{
 .div-1{
     width: 500px;
     height: 250px;
-    border: 3px solid indigo;
     margin-left: 10px;
+    background-color: white;
    
 }
 .layer{
     font-family: Azeret Mono;
-    font-size: 25px;
-    text-align: center;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(13, 19, 33, 0.7);
+    
 }
 .layer-p{
     color: rgb(13, 19, 33);
@@ -148,15 +147,253 @@ body{
 .learn{
     height: 40px;
     width: 130px;
+    font-weight: bold;
     font-size: 20px;
     margin-left: 2%;
     margin-top: 30px;
-    background-color: white;
+    border-color:rgb(180, 182, 186);
+    background-color:rgb(254, 254, 254);
    
 }   
 
-.div-2{
+.image-1{
     height: 215px;
     width: 260px;
-    border: 3px solid gold;
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: white;
+   
+  
+}
+.parent-2{
+    height: 270px;
+   width: 900px;
+  
+   margin-top: 50px; 
+   margin-left: 80px;
+   display: flex;
+  
+}
+.div-2{
+    height: 220px;
+    width: 600px;
+    margin: 20px 50px 20px 35px;
+    background-color: white;
+
+}
+.image-2{
+    margin-left: 25px;
+    background-color: white;
+}
+.layer-1{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 10px;
+    margin-left:10px;
+    color: rgba(13, 19, 33, 0.7);
+    
+}
+.layer-p-2{
+    font-family: Azeret Mono;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: rgb(13, 19, 33);
+    line-height: 25px;
+}
+.learn-1{
+    height: 40px;
+    width: 140px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 2%;
+    margin-top: 2%;
+    border-color:rgb(180, 182, 186);
+    background-color:rgb(254, 254, 254);
+
+}
+.parent-3{
+    height: 270px;
+    width: 910px;
+   
+    margin-top: 50px; 
+    margin-left: 80px;
+    display: flex;
+}
+.div-3{
+    height: 220px;
+    width: 530px;
+   
+    margin: 20px 50px 10px 25px;
+    background-color: white;
+}
+.layer-2{
+    margin-top: 5px;
+    margin-left: 5px;
+    font-family: Azeret Mono;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(13, 19, 33, 0.7);
+    
+}
+.image-3{
+    height:220px;
+    width: 230px;
+   
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: white;
+}
+
+.parent-4{
+    background-color: rgb(255, 255, 255);
+    height: 700px;
+    width: 1240px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.div-4{
+    height: 100px;
+    width: 850px;
+    margin: 0 auto;
+}
+.layer-3{
+    text-align: center;
+    margin-top: 5px;
+    font-family: Azeret Mono;
+    font-size: 28px;
+}
+.layer-p-3{
+    text-align: center;
+    font-family: Azeret Mono;
+    font-size: 16px;
+}
+.youtube{
+    height: 550px;
+    width: 1090px;
+    border: 3px solid rgb(231, 231, 233);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 40px;
+    
+}
+.jank{
+    border-radius: 20px;
+    margin: 35px 35px 35px 35px;
+  
+}
+.parent-5{
+    height: 550px;
+    width: 1240px;
+    margin: 0 auto;
+    margin-top: 80px;
+    background-color: white;
+}
+.target{
+    height: 150px;
+    width: 950px;
+    margin: 0 auto;
+}
+.layer-4{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-family: Azeret Mono;
+    font-size: 29px;
+}
+.layer-p-4{
+    text-align: center;
+    font-family: Azeret Mono;
+    font-size: 16px;
+}
+.parent-6{
+    width: 1240px;
+    height: 350px;
+    margin-top: 35px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.html,.css, .java{
+    height: 250px;
+    width: 360px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.html{
+    background-color: rgb(255, 246, 244);
+    border-radius: 13px;
+}
+.css{
+    background-color: rgb(242, 246, 254);
+    border-radius: 13px;
+}
+.java{
+   background-color: rgb(255, 253, 242);
+   border-radius: 13px;
+}
+.html-icon, .css-icon, .java-icon{
+   margin: 15px 0 5px 10px;
+}
+.html-name, .css-name, .java-name{
+    margin: 15px 0 5px 10px;
+    font-family: Azeret Mono;
+    font-size: 25px;
+    color: rgb(13, 19, 33);
+}
+.html-p, .css-p, .java-p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 18px;
+line-height: 25px;
+margin: 20px 0 5px 10px;
+}
+.link-1, .link-2, .link-3{
+    margin: 20px 0 5px 10px;
+   margin-top:30px;
+    font-weight: bold;
+    font-size: 18px;
+   
+}
+.parent-7{
+    width: 1240px;
+    height: 870px;
+    border: 3px solid green;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.react, .node, .mongo{
+    height: 200px;
+    width: 1220px;
+    border: 3px solid rgb(231, 231, 233);
+    border-radius: 18px;
+    margin-top: 35px;
+    margin-left: 10px;
+    display: flex;
+}
+.react-image, .node-image, .mongo-image{
+    height: 90px;
+    width: 110px;
+    margin: 40px 0 20px 15px;
+}
+.react-js, .node-js, .mongo-db{
+    height: 150px;
+    width: 1000px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.react-name, .node-name, .mongo-name{
+    font-family: Azeret Mono;
+    color: rgb(13, 19, 33);
+    font-size: 23px;
+    margin-left: 20px;
+}
+.react-p, .node-p, .mongo-p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono; 
+    margin-left: 20px ;
+}
+.node-image{
+
 }
