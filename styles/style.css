@@ -400,7 +400,8 @@ margin: 20px 0 5px 10px;
     background-size: 1240px 450px;
     height: 450px;
     width: 1220px;
-    border: 3px solid green;
+    filter: blur(1px);
+    box-shadow: 3px 3px 3px 3px;
     margin: 0 auto;
     margin-top: 50px;
 }
@@ -414,7 +415,7 @@ margin: 20px 0 5px 10px;
 .support{
     font-family: Azeret Mono; 
     font-size: 32px;
-    margin-top: 2px;
+    margin-top: 5%;
     color: rgb(255, 255, 255);
 }
 .support-p{
@@ -422,12 +423,14 @@ margin: 20px 0 5px 10px;
     text-align: center;
     color: rgb(95, 99, 104);
     line-height: 30px;
+    margin-top: 40px;
 }
 .input{
     height: 50px;
     width: 400px;
     border: 3px solid rgba(13, 19, 33, 0.15);;
     border-radius:10px;
+    margin-top: 30px;
     
 }
 ::placeholder{
@@ -436,7 +439,7 @@ margin: 20px 0 5px 10px;
     line-height: 20px;
     color: rgba(13, 19, 33, 0.4);
 }
-.btn{
+#contant-me{
     height: 50px;
     width: 160px;
     border: 3px solid rgba(13, 19, 33, 0.15);;
@@ -444,4 +447,34 @@ margin: 20px 0 5px 10px;
     margin-left: 2px;
     font-family: Azeret Mono; 
     font-size: 18px;
+}
+.last-part{
+    height: 70px;
+    width: 1250px;
+    border-radius: 14px;
+    border: 1px solid rgb(231, 231, 233);
+    margin: 0 auto;
+    margin-top: 60px;
+    background-color: rgb(247, 248, 248);
+
+}
+.last-part-1{
+    height: 40px;
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+}
+.last-name{
+    color: rgb(3, 7, 17);
+    font-family: Azeret Mono;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 15px;
+}
+.icon{
+    margin-right: 20px;
 }
